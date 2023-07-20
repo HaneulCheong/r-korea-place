@@ -11,7 +11,7 @@
 ### 동맹 (Allied)
 
 공격받을 때 서로를 도와줍니다.<br>
-We will help each other in case one is under attack.
+We help each other in case one is under attack.
 
 - American Flag in Place (https://discord.gg/afip)
 - Taiwan r/placeTW & r/taiwanica server (https://discord.gg/8xSQKCHSnT)
@@ -19,7 +19,7 @@ We will help each other in case one is under attack.
 - r/IndiaPlace (https://discord.gg/APEs3vJH)
 - r/Bangladesh (https://discord.gg/bangladesh)
 
-## 우호 (Friendly)
+### 우호 (Friendly)
 
 서로 공격하지 않습니다.<br>
 We do not attack each other.
