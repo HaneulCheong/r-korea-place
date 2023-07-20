@@ -8,13 +8,21 @@
 
 ## 외교 (Diplomacy)
 
-### 동맹 (Allies)
+### 동맹 (Allied)
 
 공격받을 때 서로를 도와줍니다.<br>
 We will help each other in case one is under attack.
 
 - American Flag in Place (https://discord.gg/afip)
 - Taiwan r/placeTW & r/taiwanica server (https://discord.gg/8xSQKCHSnT)
+- TQQ Pixel Wars (https://discord.gg/E5XcGVSt)
+
+## 우호 (Friendly)
+
+서로 공격하지 않습니다.<br>
+We do not attack each other.
+
+- PlaceFR (https://discord.gg/placefr-959455317886902302)
 
 ## 오버레이 스크립트 사용법
 
