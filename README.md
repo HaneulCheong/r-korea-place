@@ -4,6 +4,8 @@
 
 ![Flag of Korea](media/flag_of_korea_large.png)
 
+좌상단 꼭지점: 458, 650
+
 ## 외교 (Diplomacy)
 
 ### 동맹 (Allies)
