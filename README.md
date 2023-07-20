@@ -2,7 +2,7 @@
 
 ## 현재 도안
 
-![Flag of Korea](media\flag_of_korea_large.png)
+![Flag of Korea](media/flag_of_korea_large.png)
 
 ## 중요 링크
 
