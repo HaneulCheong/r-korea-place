@@ -18,6 +18,7 @@ We help each other in case one is under attack.
 - TQQ Pixel Wars (https://discord.gg/E5XcGVSt)
 - r/IndiaPlace (https://discord.gg/APEs3vJH)
 - r/Bangladesh (https://discord.gg/bangladesh)
+- r/PlaceSG (https://discord.gg/MY2bMNdApa)
 
 ### 우호 (Friendly)
 
