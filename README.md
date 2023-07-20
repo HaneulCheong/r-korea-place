@@ -6,14 +6,13 @@
 
 ## 외교 (Diplomacy)
 
-If you do not agree to the diplomatic terms written below, contact us immediately.
+### 동맹 (Allies)
 
-### Allies
-
+공격받을 때 서로를 도와줍니다.<br>
 We will help each other in case one is under attack.
 
 - American Flag in Place (https://discord.gg/afip)
-- Taiwan r/placeTW & r/taiwanica server https://discord.gg/8xSQKCHSnT
+- Taiwan r/placeTW & r/taiwanica server (https://discord.gg/8xSQKCHSnT)
 
 ## 중요 링크 (Important Links)
 
