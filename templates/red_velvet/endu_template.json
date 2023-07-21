@@ -1,0 +1,16 @@
+{
+  "faction": "Red Velvet",
+  "contact": "?",
+  "templates": [
+    {
+      "name": "Red Velvet Logo",
+      "sources": [
+        "https://raw.githubusercontent.com/HaneulCheong/r-korea-place/main/templates/red_velvet/source/red_velvet.png"
+      ],
+      "x": 598,
+      "y": 485
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
