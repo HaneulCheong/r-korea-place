@@ -1,5 +1,6 @@
 # r/korea_place
 
+<!--
 ## 현재 도안 (Current Design)
 
 ![Flag of Korea](media/flag_of_korea_large.png)
@@ -26,6 +27,7 @@ We help each other in case one is under attack.
 We do not attack each other.
 
 - PlaceFR (https://discord.gg/placefr-959455317886902302)
+-->
 
 ## 오버레이 스크립트 사용법
 
