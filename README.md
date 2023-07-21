@@ -39,6 +39,8 @@ We do not attack each other.
 
 ## 중요 링크 (Important Links)
 
+- https://rentry.org/KoreaPlace2023 <!-- 6pNo397x -->
+- https://rentry.org/KoreaPlace2023/raw
 - https://charity.pxls.space/
 - https://charity.pxls.space/tutorial
 - https://colorswall.com/palette/188214
