@@ -1,0 +1,16 @@
+{
+  "faction": "Moobong",
+  "contact": "?",
+  "templates": [
+    {
+      "name": "Moobong",
+      "sources": [
+        "https://raw.githubusercontent.com/HaneulCheong/r-korea-place/main/templates/moobong/source/moobong.png"
+      ],
+      "x": 592,
+      "y": 475
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
