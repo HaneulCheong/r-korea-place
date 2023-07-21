@@ -5,7 +5,7 @@
     {
       "name": "Flag of Korea",
       "sources": [
-        "https://github.com/HaneulCheong/r-korea-place/blob/main/templates/flag/source/flag_of_korea.png"
+        "https://raw.githubusercontent.com/HaneulCheong/r-korea-place/main/templates/flag/source/flag_of_korea.png"
       ],
       "x": 0,
       "y": 0
