@@ -5,10 +5,10 @@
     {
       "name": "Flag of Korea",
       "sources": [
-        "https://raw.githubusercontent.com/HaneulCheong/r-korea-place/main/templates/flag/source/flag_of_korea.png"
+        "https://raw.githubusercontent.com/HaneulCheong/r-korea-place/e46ff5e/templates/flag/source/flag_of_korea.png"
       ],
-      "x": 597,
-      "y": 475
+      "x": 1251,
+      "y": 307
     }
   ],
   "whitelist": [],
